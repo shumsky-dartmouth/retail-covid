@@ -1,4 +1,6 @@
 # retail-covid
+https://doi.org/10.5281/zenodo.4427098
+
 This directory contains code for the paper "Retail Store Customer Flow and COVID-19 Transmission."
 
 Files that begin "Figure..." are maple files that generate each of the figures in the paper.
